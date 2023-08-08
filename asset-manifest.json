@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/Portfolio_Youssef_Hanouch/static/css/main.cfb85b32.css",
-    "main.js": "/Portfolio_Youssef_Hanouch/static/js/main.fd02576d.js",
+    "main.js": "/Portfolio_Youssef_Hanouch/static/js/main.5c949720.js",
     "static/media/imag.png": "/Portfolio_Youssef_Hanouch/static/media/imag.5d82a31738b4a0d36e9e.png",
     "static/media/about.png": "/Portfolio_Youssef_Hanouch/static/media/about.225795ffec6659dece50.png",
     "static/media/project4.jpg": "/Portfolio_Youssef_Hanouch/static/media/project4.7d2eca13525a47d4645c.jpg",
     "static/media/project1.jpg": "/Portfolio_Youssef_Hanouch/static/media/project1.6a6d5a407507c0e0b5b7.jpg",
     "index.html": "/Portfolio_Youssef_Hanouch/index.html",
     "main.cfb85b32.css.map": "/Portfolio_Youssef_Hanouch/static/css/main.cfb85b32.css.map",
-    "main.fd02576d.js.map": "/Portfolio_Youssef_Hanouch/static/js/main.fd02576d.js.map"
+    "main.5c949720.js.map": "/Portfolio_Youssef_Hanouch/static/js/main.5c949720.js.map"
   },
   "entrypoints": [
     "static/css/main.cfb85b32.css",
-    "static/js/main.fd02576d.js"
+    "static/js/main.5c949720.js"
   ]
 }
