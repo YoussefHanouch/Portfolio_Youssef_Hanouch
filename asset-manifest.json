@@ -1,18 +1,31 @@
 {
   "files": {
-    "main.css": "/Portfolio_Youssef_Hanouch/static/css/main.cfb85b32.css",
-    "main.js": "/Portfolio_Youssef_Hanouch/static/js/main.53398778.js",
-    "static/media/imag.png": "/Portfolio_Youssef_Hanouch/static/media/imag.5d82a31738b4a0d36e9e.png",
-    "static/media/GymBros.png": "/Portfolio_Youssef_Hanouch/static/media/GymBros.b3ccbd48b40c685f4ec1.png",
-    "static/media/about.png": "/Portfolio_Youssef_Hanouch/static/media/about.225795ffec6659dece50.png",
-    "static/media/project4.jpg": "/Portfolio_Youssef_Hanouch/static/media/project4.7d2eca13525a47d4645c.jpg",
-    "static/media/project1.jpg": "/Portfolio_Youssef_Hanouch/static/media/project1.6a6d5a407507c0e0b5b7.jpg",
+    "main.css": "/Portfolio_Youssef_Hanouch/static/css/main.e82238a5.css",
+    "main.js": "/Portfolio_Youssef_Hanouch/static/js/main.439a3a75.js",
+    "static/media/smart_future.mp4": "/Portfolio_Youssef_Hanouch/static/media/smart_future.6c90e8f1185f79711f41.mp4",
+    "static/media/Gym.mp4": "/Portfolio_Youssef_Hanouch/static/media/Gym.39cb1b2323ee699a91ca.mp4",
+    "static/media/POS.mp4": "/Portfolio_Youssef_Hanouch/static/media/POS.51e12b8624b12c70d9ba.mp4",
+    "static/media/bot_telegram.mp4": "/Portfolio_Youssef_Hanouch/static/media/bot_telegram.bb32c891b7070469292c.mp4",
+    "static/media/about.png": "/Portfolio_Youssef_Hanouch/static/media/about.c753e74aeaeb51a9b4d3.png",
+    "static/media/pythonTkinter.mp4": "/Portfolio_Youssef_Hanouch/static/media/pythonTkinter.d751fa5ac8416a7fea97.mp4",
+    "static/media/web_scraping.mp4": "/Portfolio_Youssef_Hanouch/static/media/web_scraping.992c62a17b2e97c17232.mp4",
+    "static/media/calculatrice.mp4": "/Portfolio_Youssef_Hanouch/static/media/calculatrice.ad334946c305ad54ddf2.mp4",
+    "static/media/homepage.mp4": "/Portfolio_Youssef_Hanouch/static/media/homepage.f14b0d2710cf5c28bd46.mp4",
+    "static/media/project1.jpg": "/Portfolio_Youssef_Hanouch/static/media/project1.b3ccbd48b40c685f4ec1.jpg",
+    "static/media/imag.png": "/Portfolio_Youssef_Hanouch/static/media/imag.6192828b6d7989b46bcf.png",
+    "static/media/project5.jpg": "/Portfolio_Youssef_Hanouch/static/media/project5.55b9713de0e0abd7921a.jpg",
+    "static/media/project2.jpg": "/Portfolio_Youssef_Hanouch/static/media/project2.187bcc5f4ecc6b904b0c.jpg",
+    "static/media/project4.jpg": "/Portfolio_Youssef_Hanouch/static/media/project4.c825971bfcd6f922a75f.jpg",
+    "static/media/project6.jpg": "/Portfolio_Youssef_Hanouch/static/media/project6.3d0465a309867925455a.jpg",
+    "static/media/project8.jpg": "/Portfolio_Youssef_Hanouch/static/media/project8.ceb46432e54e853e3575.jpg",
+    "static/media/project3.jpg": "/Portfolio_Youssef_Hanouch/static/media/project3.8ae0b4ea14e7c7fdc7cb.jpg",
+    "static/media/project7.jpg": "/Portfolio_Youssef_Hanouch/static/media/project7.d994845fbecf637c5286.jpg",
     "index.html": "/Portfolio_Youssef_Hanouch/index.html",
-    "main.cfb85b32.css.map": "/Portfolio_Youssef_Hanouch/static/css/main.cfb85b32.css.map",
-    "main.53398778.js.map": "/Portfolio_Youssef_Hanouch/static/js/main.53398778.js.map"
+    "main.e82238a5.css.map": "/Portfolio_Youssef_Hanouch/static/css/main.e82238a5.css.map",
+    "main.439a3a75.js.map": "/Portfolio_Youssef_Hanouch/static/js/main.439a3a75.js.map"
   },
   "entrypoints": [
-    "static/css/main.cfb85b32.css",
-    "static/js/main.53398778.js"
+    "static/css/main.e82238a5.css",
+    "static/js/main.439a3a75.js"
   ]
 }
